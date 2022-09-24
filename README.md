@@ -2,7 +2,7 @@
 ---
 **Author:** Arijit Bhowmick
 
-Now the Contents are also available at **scribd.com** and **Google Docs Rendering***
+Now the Contents are also available at **scribd.com** and **Google Docs Rendering**
 ---
 ---
 ## Content used during my Sessions
